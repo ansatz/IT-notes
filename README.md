@@ -1,8 +1,8 @@
 # IT-notes
-notes related to IT issues.
+collected IT notes
 
-#ubuntu 22.04
 ```
+#ubuntu 22.04
 check_display  |  display- wayland or x11
 f6  |  copyq to front/back
 f12      |  dropdown terminal
@@ -15,11 +15,14 @@ C+f12    |  vim scratch term
 
 
 
-
-
-
----
 #macOS
+
 
 ```
 
+---
+
+```
+#reader
+[foliate](https://github.com/johnfactotum/foliate)
+```
