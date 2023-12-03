@@ -31,7 +31,7 @@ not mac-specific:
 ---
 software:
   * reader: - [foliate](https://github.com/johnfactotum/foliate), zathura, calibre, Zotero  - &#x2318; Books, Viewer
-  * filesys  - ranger - &#x2318; Finder
+  * filesys  - ranger - &#x2318; Finder, [MacRanger](https://github.com/trishume/MacRanger) - iOS Gladys, 
   * notes -- Zarathura, Joplin -- &#x2318; Notes app
   *  txt editor -- vim, gedit, Scrivener -- &#x2318; TextEdit
   *  snippets -- gists
